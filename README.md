@@ -1,4 +1,4 @@
-<img widht="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=66CDAA&section=header&reversal=false&fontAlign=49&fontSize=60&animation=fadeIn&textBg=false"/>
+<img widht="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00FA9A&section=header&reversal=false&fontAlign=49&fontSize=60&animation=fadeIn&textBg=false"/>
 
 <h1>  Oi, Eu sou o Kevin Soares👋 </h2>
 
@@ -45,6 +45,6 @@
 </div>
 
 
-<img widht="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=66CDAA&section=header&reversal=false&fontAlign=49&fontSize=60&animation=fadeIn&textBg=false"/>
+<img widht="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00FA9A&section=footer&reversal=false&fontAlign=49&fontSize=60&animation=fadeIn&textBg=false"/>
 <br>
 
