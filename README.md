@@ -1,5 +1,6 @@
+<img widht="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=66CDAA&section=header&reversal=false&fontAlign=49&fontSize=60&animation=fadeIn&textBg=false"/>
 
-<h2 align="center">  Oi, Eu sou o Kevin Soares👋 </h2>
+<h1>  Oi, Eu sou o Kevin Soares👋 </h2>
 
 
 
@@ -10,12 +11,29 @@
   
 </div>
 
+
 <div align="center"> 
   
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinSoaresFC&theme=dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KevinSoaresFC&theme=dark&hide_border=false&border_radius=5&short_numbers=false&mode=weekly&card_width=450&card_height=180)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KevinSoaresFC&theme=dark&utcOffset=8)  |
 | :-: | :-: | :-: |
 
 </div>
+
+
+
+<div align="center">
+  
+   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="50" />
+   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="50" />
+   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="50" />
+   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="50" />
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50" />
+   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" width="50" />
+   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="50" />
+  
+</div>
+
+
 
 <div align="center">
 
@@ -26,4 +44,7 @@
   
 </div>
 
+
+<img widht="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=66CDAA&section=header&reversal=false&fontAlign=49&fontSize=60&animation=fadeIn&textBg=false"/>
 <br>
+
