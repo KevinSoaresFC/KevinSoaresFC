@@ -40,21 +40,15 @@ Com trajetória consolidada no varejo, desenvolvi maturidade em resolução de p
 </p>
 
 
-
 <div align="center">
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinSoaresFC&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KevinSoaresFC&theme=dark) | 
-| :-: | :-: |
+  [![whatsapp](https://img.shields.io/badge/whatsapp-000000?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5511966928510)
+  [![gmail](https://img.shields.io/badge/gmail-000000?style=flat&logo=gmail&logoColor=white)](mailto:soareskevin744@gmail.com)
+  [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinsoaresfc)
+
   
 </div>
 
-
-<div align="center"> 
-  
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinSoaresFC&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KevinSoaresFC&theme=dark&utcOffset=8)  |
-| :-: | :-: |
-
-</div>
 
 
 <div align="center">
@@ -73,14 +67,23 @@ Com trajetória consolidada no varejo, desenvolvi maturidade em resolução de p
 
 <div align="center">
 
-  [![whatsapp](https://img.shields.io/badge/whatsapp-000000?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5511966928510)
-  [![gmail](https://img.shields.io/badge/gmail-000000?style=flat&logo=gmail&logoColor=white)](mailto:soareskevin744@gmail.com)
-  [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinsoaresfc)
-
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinSoaresFC&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KevinSoaresFC&theme=dark) | 
+| :-: | :-: |
   
 </div>
 
 
+<div align="center"> 
+  
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinSoaresFC&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KevinSoaresFC&theme=dark&utcOffset=8)  |
+| :-: | :-: |
+
+</div>
+
+
+
+
 <img widht="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00FA9A&section=footer&reversal=false&fontAlign=49&fontSize=60&animation=fadeIn&textBg=false"/>
+
 <br>
 
