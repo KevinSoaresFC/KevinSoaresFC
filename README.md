@@ -11,7 +11,20 @@
 <h1>  Oi, Eu sou o Kevin Soares👋 </h2>
 
 <p>
-  
+
+**Estudante de ADS na UniFECAF (2º Semestre)** Focado no desenvolvimento de soluções eficientes e na criação de interfaces intuitivas. Atualmente, busco minha primeira oportunidade como Estagiário de TI para aplicar meus conhecimentos técnicos e evoluir em um ambiente profissional.
+
+---
+
+### 🚀 O que estou estudando e praticando:
+- **Back-end:** Python e SQL (MySQL).
+- **Front-end:** JavaScript, HTML e CSS.
+- **Design:** Prototipagem no Figma.
+- **Versionamento:** Git & GitHub.
+
+### 💼 Perfil Profissional:
+Com trajetória consolidada no varejo, desenvolvi maturidade em resolução de problemas, disciplina e trabalho em equipe. Transponho essas competências para a tecnologia, com foco em resultados e aprendizado contínuo.
+
 </p>
 
 
