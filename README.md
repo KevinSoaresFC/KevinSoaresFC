@@ -19,7 +19,11 @@
 
 <div align="center">
   
-  [![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinsoaresfc)
+  [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinsoaresfc)
+  [![whatsapp](https://img.shields.io/badge/whatsapp-000000?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5511966928510)
+  
+  
+
 
   
 </div>
