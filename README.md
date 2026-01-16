@@ -1,17 +1,22 @@
 <img widht="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00FA9A&section=header&reversal=false&fontAlign=49&fontSize=60&animation=fadeIn&textBg=false"/>
 
 
-<div align="center" widht="100%">
+<p align="center" width="100%">
 
-[![Digitando SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=00FA9A&width=435&lines=++++++++++++++++++++Welcome!;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Coding...)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=00FA9A&width=435&lines=++++++++++++++++++++Welcome!;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Coding..." alt="Typing SVG" />
+  </a>
 
-</div>
+</p>
 
 
 
 <p align="center">
-  <img src="https://i.imgur.com/GfWr5XM.gif" height="250" />
+  
+  <img src="https://i.imgur.com/GfWr5XM.gif" height="270" />
+  
 </p>
+
 
 
 
@@ -46,11 +51,10 @@ Com trajetória consolidada no varejo, desenvolvi maturidade em resolução de p
 
 <div align="center"> 
   
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinSoaresFC&theme=dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KevinSoaresFC&theme=dark&hide_border=false&border_radius=5&short_numbers=false&mode=weekly&card_width=450&card_height=180)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KevinSoaresFC&theme=dark&utcOffset=8)  |
-| :-: | :-: | :-: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinSoaresFC&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KevinSoaresFC&theme=dark&utcOffset=8)  |
+| :-: | :-: |
 
 </div>
-
 
 
 <div align="center">
