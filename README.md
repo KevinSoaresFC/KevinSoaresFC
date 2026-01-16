@@ -18,12 +18,10 @@
 </div>
 
 <div align="center">
-  
-  [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinsoaresfc)
-  [![whatsapp](https://img.shields.io/badge/whatsapp-000000?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5511966928510)
-  
-  
 
+  [![whatsapp](https://img.shields.io/badge/whatsapp-000000?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5511966928510)
+  [![gmail](https://img.shields.io/badge/gmail-000000?style=flat&logo=gmail&logoColor=white)](mailto:soareskevin744@gmail.com)
+  [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinsoaresfc)
 
   
 </div>
