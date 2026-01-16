@@ -10,8 +10,18 @@
   
 </div>
 
-<div> 
+<div align="center"> 
+  
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinSoaresFC&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KevinSoaresFC&theme=dark&utcOffset=8) | 
+| :-: | :-: |
+
 
 
 </div>
+
+<div>
+
+  
+</div>
+
 <br>
