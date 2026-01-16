@@ -1,10 +1,17 @@
 <img widht="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00FA9A&section=header&reversal=false&fontAlign=49&fontSize=60&animation=fadeIn&textBg=false"/>
 
 
-<p align="center">
-  <img src="" height="300" />
-</p>
+<div align="center" widht="100%">
 
+[![Digitando SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=00FA9A&width=435&lines=++++++++++++++++++++Welcome!;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Coding...)](https://git.io/typing-svg)
+
+</div>
+
+
+
+<p align="center">
+  <img src="https://i.imgur.com/GfWr5XM.gif" height="250" />
+</p>
 
 
 
