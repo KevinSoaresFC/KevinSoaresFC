@@ -1,6 +1,18 @@
 <img widht="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00FA9A&section=header&reversal=false&fontAlign=49&fontSize=60&animation=fadeIn&textBg=false"/>
 
+
+<p align="center">
+  <img src="" height="300" />
+</p>
+
+
+
+
 <h1>  Oi, Eu sou o Kevin Soares👋 </h2>
+
+<p>
+  
+</p>
 
 
 
