@@ -24,7 +24,7 @@
 
 <p>
 
-**Estudante de ADS na UniFECAF (2º Semestre)** Focado no desenvolvimento de soluções eficientes e na criação de interfaces intuitivas. Atualmente, busco minha primeira oportunidade como Estagiário de TI para aplicar meus conhecimentos técnicos e evoluir em um ambiente profissional.
+**Estudante de ADS na UniFECAF (3º Semestre)** Focado no desenvolvimento de soluções eficientes e na criação de interfaces intuitivas. Atualmente, busco minha primeira oportunidade como Estagiário de TI para aplicar meus conhecimentos técnicos e evoluir em um ambiente profissional.
 
 ---
 
