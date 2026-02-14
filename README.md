@@ -30,9 +30,9 @@
 
 ### 🚀 O que estou estudando e praticando:
 - **Back-end:** Python e SQL (MySQL).
-- **Front-end:** JavaScript, HTML e CSS.
+- **Front-end:** HTML e CSS.
 - **Design:** Prototipagem no Figma.
-- **Versionamento:** Git & GitHub.
+- **Versionamento:** GitHub.
 
 ### 💼 Perfil Profissional:
 Com trajetória consolidada no varejo, desenvolvi maturidade em resolução de problemas, disciplina e trabalho em equipe. Transponho essas competências para a tecnologia, com foco em resultados e aprendizado contínuo.
